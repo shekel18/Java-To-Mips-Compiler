@@ -1,0 +1,6 @@
+{
+  "name": "Java to MARS MIPS Compiler",
+  "description": "An educational translation compiler that takes Java code with multiple classes and inheritance and compiles it to commented, optimized MARS MIPS assembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
